@@ -11,4 +11,4 @@ and update this readme with the links to your applications.
 Link1:  
 `//add your link to the first deployment`   
 Link2:  
-`//add your link to the second deployment`  
+https://homework08.herokuapp.com/docs/static/index.html  
