@@ -9,6 +9,7 @@ after making your changes,submit a PR with the version you deployed.
 and update this readme with the links to your applications.
 
 Link1:  
-`//add your link to the first deployment`   
+https://firstlink1.herokuapp.com/docs
+
 Link2:  
-`//add your link to the second deployment`  
+https://secondlink2.herokuapp.com/docs
