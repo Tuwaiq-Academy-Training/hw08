@@ -9,6 +9,6 @@ after making your changes,submit a PR with the version you deployed.
 and update this readme with the links to your applications.
 
 Link1:  
-`//add your link to the first deployment`   
+https://homework08-1.herokuapp.com/docs/static/index.html#/  
 Link2:  
 https://homework08.herokuapp.com/docs/static/index.html  
