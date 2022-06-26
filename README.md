@@ -9,6 +9,11 @@ after making your changes,submit a PR with the version you deployed.
 and update this readme with the links to your applications.
 
 Link1:  
-`//add your link to the first deployment`   
+  https://home-workapp-hm08.herokuapp.com/
+  
+  https://github.com/A1I21/hm08-01
+  
 Link2:  
-`//add your link to the second deployment`  
+https://home-workapp-hm08-02.herokuapp.com/ 
+
+https://github.com/A1I21/hm08-02
