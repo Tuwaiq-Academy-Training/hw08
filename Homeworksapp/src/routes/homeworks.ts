@@ -2,10 +2,10 @@ import { FastifyInstance } from 'fastify';
 
 export default async function (server: FastifyInstance) {
 	server.get('/', async (request, reply) => {
-		// add your code here
+	return{msg:'welcome Rana'}
 	});
 
 	server.get('/Homework', async (request, reply) => {
-		// add your code here
+		return{msg:'welcome Homework '}
 	});
 }
