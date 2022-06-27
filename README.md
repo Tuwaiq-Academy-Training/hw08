@@ -11,4 +11,4 @@ and update this readme with the links to your applications.
 Link1:  
 https://hw8-1.herokuapp.com/docs/static/index.html#/default/get_  
 Link2:  
-`//add your link to the second deployment`  
+https://hw8-2.herokuapp.com/docs/static/index.html  
