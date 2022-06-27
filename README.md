@@ -9,7 +9,9 @@ after making your changes,submit a PR with the version you deployed.
 and update this readme with the links to your applications.
 
 Link1:  
-`https://hw08-1.herokuapp.com/`   
-`https://hw08-1.herokuapp.com/Homework`
+https://hw08-1.herokuapp.com/
+
+https://hw08-1.herokuapp.com/Homework
+
 Link2:  
-`https://hw08-2.herokuapp.com/`  
+https://hw08-2.herokuapp.com/
