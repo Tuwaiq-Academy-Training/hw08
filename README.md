@@ -8,9 +8,11 @@ additionally you need to deploy [MockApp](./Mockapp/) to heroku and you don't ne
 after making your changes,submit a PR with the version you deployed.
 and update this readme with the links to your applications.
 
-Link1:  
+Link1:
+
 https://meshal1.herokuapp.com/
-Link2:  
+Link2:
+
 https://meshal2.herokuapp.com/
 
 
