@@ -1,6 +1,6 @@
 import { server } from './server';
 
-const port: any = process.env.$PORT ?? 3000
+const port: any = process.env.$PORT ?? 4000
 
 server
 	.listen({
